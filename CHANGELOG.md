@@ -4,6 +4,17 @@ Coordinator for the Speedrun modpack. It owns pack identity, config, default pro
 
 ## [Unreleased]
 
+## [5.0.0] - 2026-10-05
+
+### Added
+
+- drop Balance Changes and Surface Rebalance, require ModpackLib 4.2.1 (5a08cbc)
+
+### Documentation
+
+- readme: document InfiniDD module (
+fa92d0)
+
 ## [3.0.3] - 2026-06-15
 
 ### Added
