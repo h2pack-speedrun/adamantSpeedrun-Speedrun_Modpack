@@ -31,8 +31,6 @@ local MODPACK_OPTS = {
         "LiveSplit",
         "Gameplay_QoL",
         "QoL",
-        "Balance_Changes",
-        "Surface_Rebalance",
         "InfiniDD",
         "Boonless",
     },
