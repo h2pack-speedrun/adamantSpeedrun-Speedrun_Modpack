@@ -4,6 +4,12 @@ Coordinator for the Speedrun modpack. It owns pack identity, config, default pro
 
 ## [Unreleased]
 
+## [5.2.0] - 2026-10-08
+
+### Documentation
+
+- document Jeweled Pom Boon (12cc1bd)
+
 ## [5.1.0] - 2026-10-08
 
 ### Documentation
