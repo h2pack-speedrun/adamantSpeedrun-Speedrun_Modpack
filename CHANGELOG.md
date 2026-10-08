@@ -4,6 +4,12 @@ Coordinator for the Speedrun modpack. It owns pack identity, config, default pro
 
 ## [Unreleased]
 
+## [5.1.0] - 2026-10-08
+
+### Documentation
+
+- document No Selene in First Room (a553e6e)
+
 ## [5.0.0] - 2026-10-05
 
 ### Added
