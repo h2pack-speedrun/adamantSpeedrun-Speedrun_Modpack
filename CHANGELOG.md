@@ -4,6 +4,12 @@ Coordinator for the Speedrun modpack. It owns pack identity, config, default pro
 
 ## [Unreleased]
 
+## [5.3.0] - 2026-10-10
+
+### Documentation
+
+- document the Zagreus timer fix and the IGT menu block (92ce9fd)
+
 ## [5.2.1] - 2026-10-10
 
 ### Changed
