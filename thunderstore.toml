@@ -5,7 +5,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "adamantSpeedrun"
 name = "Speedrun_Modpack"
-versionNumber = "5.2.0"
+versionNumber = "5.2.1"
 description = "Speedrun modpack package."
 websiteUrl = "https://github.com/h2pack-speedrun/adamantSpeedrun-Speedrun_Modpack"
 containsNsfwContent = false
@@ -22,8 +22,8 @@ adamant-ModpackLib = "4.2.2"
 # -- submodules-start --
 adamantSpeedrun-Boonless = "5.0.0"
 adamantSpeedrun-Gameplay_QoL = "5.0.0"
-adamantSpeedrun-InfiniDD = "5.0.0"
-adamantSpeedrun-LiveSplit = "5.0.0"
+adamantSpeedrun-InfiniDD = "5.2.1"
+adamantSpeedrun-LiveSplit = "5.2.1"
 adamantSpeedrun-QoL = "5.0.0"
 adamantSpeedrun-Select_First_Hammer = "5.0.0"
 # -- submodules-end --

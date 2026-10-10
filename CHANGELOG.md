@@ -4,6 +4,12 @@ Coordinator for the Speedrun modpack. It owns pack identity, config, default pro
 
 ## [Unreleased]
 
+## [5.2.1] - 2026-10-10
+
+### Changed
+
+- No user-facing changes.
+
 ## [5.2.0] - 2026-10-08
 
 ### Documentation
