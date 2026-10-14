@@ -4,6 +4,12 @@ Coordinator for the Speedrun modpack. It owns pack identity, config, default pro
 
 ## [Unreleased]
 
+## [5.4.0] - 2026-10-14
+
+### Added
+
+- stop depending on Boonless and InfiniDD (eefb262)
+
 ## [5.3.0] - 2026-10-10
 
 ### Documentation
