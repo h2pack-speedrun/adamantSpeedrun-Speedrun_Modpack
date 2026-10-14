@@ -2,7 +2,7 @@
 
 Unrelated Mod to the Hades 1 modpack. Just slightly inspired by it is all.
 
-This is a modular Hades II modpack. Every module here can either be installed individually or part of the pack. It brings together first-hammer selection, boonless route controls, infinite Death Defiance practice, in-game LiveSplit-style timing, quality-of-life options, and gameplay-flow quality-of-life adjustments under one shared Speedrun settings window.
+This is a modular Hades II modpack. Every module here can either be installed individually or part of the pack. It brings together first-hammer selection, in-game LiveSplit-style timing, quality-of-life options, and gameplay-flow quality-of-life adjustments under one shared Speedrun settings window. Optional modules (Boonless, InfiniDD and Quick Pause) are installed separately and join the same window when present.
 
 ## How To Open The Settings
 
@@ -122,6 +122,14 @@ Current options:
 - **Fix Zagreus Timer Freeze:** Resumes the run timer when Zagreus is killed right after he rises again; vanilla leaves it paused for the rest of the run. On by default.
 - **Disable Codex and Inventory when IGT is active:** The Codex, Inventory and trait Info screens pause the in-game timer, so during a run they can only be opened while the timer is already paused. On by default as a leaderboard rule.
 
+## Optional Modules
+
+These modules are not installed by the pack. Install them from Thunderstore when you want them: each works on its own, and when the Speedrun modpack is installed it adds them to its window.
+
+- [Boonless](https://thunderstore.io/c/hades-ii/p/adamantSpeedrun/Boonless/)
+- [InfiniDD](https://thunderstore.io/c/hades-ii/p/adamantSpeedrun/InfiniDD/)
+- [Quick Pause](https://thunderstore.io/c/hades-ii/p/adamantSpeedrun/Quick_Pause/)
+
 ### Boonless
 
 This module provides the option to transform all run rewards into onions of spare gold. It meant for challenge runs under a maybe Boonless category.
@@ -155,10 +163,21 @@ Current options:
 - **Death Counter Overlay:** Shows a right-side counter for practice Death Defiances used in the current run.
 - **Practice Slowdown:** Optionally slows the player, enemies, projectiles, and world objects for a short duration after the base Death Defiance sequence finishes.
 
+### Quick Pause
+
+Freezes or slows the game with a hotkey, without opening the pause menu. It uses the game's own simulation-speed slowdown, so the world stops while the screen stays clear.
+
+Current options:
+
+- **Pause Hotkey:** The key that toggles the freeze (F5 to F12, F9 by default).
+- **Speed While Paused:** How much of normal speed remains while paused. 0 is a full freeze.
+- **Block Actions While Paused:** Stops attacks and dashes from queueing up.
+- **PAUSED Indicator:** Shows a small badge in the corner while paused.
+
 
 ## How To Use
 
-Install via r2modman. In game, open the Speedrun menu and configure the modules from the shared settings window.
+Install via r2modman. In game, open the Speedrun menu and configure the modules from the shared settings window. Optional modules you installed separately appear there too.
 
 The Quick Setup tab provides module-level enable toggles. Open a module tab for individual settings.
 

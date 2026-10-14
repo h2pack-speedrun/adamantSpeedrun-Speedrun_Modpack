@@ -31,8 +31,6 @@ local MODPACK_OPTS = {
         "LiveSplit",
         "Gameplay_QoL",
         "QoL",
-        "InfiniDD",
-        "Boonless",
     },
 }
 local modpackInitialized = false
