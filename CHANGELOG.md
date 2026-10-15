@@ -4,6 +4,12 @@ Coordinator for the Speedrun modpack. It owns pack identity, config, default pro
 
 ## [Unreleased]
 
+## [5.5.0] - 2026-10-15
+
+### Documentation
+
+- update the LiveSplit section to match its README (88ffb84)
+
 ## [5.4.0] - 2026-10-14
 
 ### Added
